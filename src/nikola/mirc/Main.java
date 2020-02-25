@@ -14,7 +14,7 @@ public class Main {
 		System.out.println(Arrays.toString(sugarHigh(new int[] { 16, 3, 14, 17, 11 }, 99)));
 	}
 
-	public static int[] sugarHigh(int candies[], int threshold) {
+	private static int[] sugarHigh(int candies[], int threshold) {
 
 		int sum = 0;
 		int[] result;
