@@ -1,4 +1,4 @@
-# sugarhigh
+# Sugar High
 
 
 In the solution I came up with, I decided to convert an Array which was given as an argument to a List in order to gain ability to easily manipulate elemenets. I thought it was a good idea to use streams feature.
